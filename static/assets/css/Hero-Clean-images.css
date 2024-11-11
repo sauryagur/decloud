@@ -1,0 +1,21 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.dashed_upload {
+}
+
+.color input {
+  background-color: inherit;
+  color: #ffffff;
+}
+
+body {
+  background-color: #112836;
+}
+
+#mainNav {
+  background-color: #061721;
+  color: #FFFEFF;
+}
+
