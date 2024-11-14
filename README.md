@@ -3,7 +3,7 @@
 </head>
 <body class='typora-export os-windows'>
 <div class='typora-export-content'>
-    <div class='' id='write'><h1 id='decloud'><u><span>DeCloud</span></u></h1>
+    <div class='' id='write'><h1 id='decloud'><u><span>DeCloud - Blockchain based cloud storage system</span></u></h1>
         <h3>Made by Team NexCode for SuperMove Tour dAppathon</h3>
         <h2 id='team-members'><span>Team Members:</span></h2>
         <ul>
