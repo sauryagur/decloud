@@ -3,12 +3,12 @@
 </head>
 <body class='typora-export os-windows'>
 <div class='typora-export-content'>
-    <div class='' id='write'><h1 id='decloud'><u><span>DeCloud - Blockchain based cloud storage system</span></u></h1>
+    <div class='' id='write'><h1 id='decloud'><u><span>DeCloud - Blockchain Based Cloud Storage System</span></u></h1>
         <h3>Made by Team NexCode for SuperMove Tour dAppathon</h3>
         <h2 id='team-members'><span>Team Members:</span></h2>
         <ul>
             <li><p><span>Baltej Singh</span></p></li>
-            <li><p><span> Jaiveer Singh </span></p></li>
+            <li><p><span>Jaiveer Singh </span></p></li>
             <li><p><span>Saurya Gur </span></p></li>
             <li><p><span>Jatin Garg </span></p></li>
             <li><p><span>Harshita Kumar</span></p></li>
