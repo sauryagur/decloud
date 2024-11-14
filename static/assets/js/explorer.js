@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded",()=>{
         (data)=>{
             data = JSON.parse(data);
             let length = data.length;
-            $$$(".container").then(cointainer=>{
+            $$$(".container",1).then(cointainer=>{
                 "works".c();
                 cointainer.update();
                 let string;
